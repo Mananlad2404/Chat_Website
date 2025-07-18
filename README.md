@@ -36,7 +36,7 @@ A real-time chat web application built using modern web technologies. Users can 
 
 ## 📸 Screenshots
 
-> ![Sign Up Preview](frontend/src/assets/Signup.png)
+![Sign Up Preview](frontend/src/assets/Signup.png)
 
 ---
 
