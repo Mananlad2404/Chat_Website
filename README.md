@@ -11,16 +11,15 @@ A real-time chat web application built using modern web technologies. Users can 
 - 👥 One-on-one and group chat support
 - 🧾 Message history
 - 📱 Responsive design (mobile-friendly)
-- 🌙 Light/Dark mode (optional)
 
 ---
 
 ## 🛠 Tech Stack
 
 **Frontend:**
-- HTML, CSS, JavaScript
-- React (optional)
-- Bootstrap / TailwindCSS (if used)
+- React Js
+- Chakra UI
+- JavaScript
 
 **Backend:**
 - Node.js
