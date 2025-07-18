@@ -38,8 +38,9 @@ A real-time chat web application built using modern web technologies. Users can 
 
 ---
 
-## 📂 Folder Structure
+## 📁 Folder Structure
 
+```
 FSD_PROJECT/
 ├── backend/                 # Backend code (Node.js + Express)
 │   ├── config/              # DB and environment configurations
@@ -65,9 +66,12 @@ FSD_PROJECT/
 │       ├── background.png   # Background image asset
 │       ├── index.js         # Entry point for React app
 │       └── index.css        # Base CSS styles
+```
+
+
 
 # How to run Project
-
+```
 cd backend
 npm install
 
@@ -79,6 +83,6 @@ npm start
 
 cd ../frontend
 npm start
-
+```
 
 
