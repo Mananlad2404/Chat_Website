@@ -17,23 +17,26 @@ A real-time chat web application built using modern web technologies. Users can 
 ## 🛠 Tech Stack
 
 **Frontend:**
+
 - React Js
 - Chakra UI
 - JavaScript
 
 **Backend:**
+
 - Node.js
 - Express.js
 - Socket.io (for real-time messaging)
 
 **Database:**
+
 - MongoDB (with Mongoose)
 
 ---
 
 ## 📸 Screenshots
 
-> *(Insert screenshots of your chat app UI here)*
+> ![Sign Up Preview](frontend/src/assets/Signup.png)
 
 ---
 
@@ -67,9 +70,8 @@ FSD_PROJECT/
 │       └── index.css        # Base CSS styles
 ```
 
-
-
 # How to run Project
+
 ```
 cd backend
 npm install
@@ -83,5 +85,3 @@ npm start
 cd ../frontend
 npm start
 ```
-
-
