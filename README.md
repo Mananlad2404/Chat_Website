@@ -36,26 +36,33 @@ A real-time chat web application built using modern web technologies. Users can 
 
 ## 📸 Screenshots
 
-- Sign Up Preview
-  ![Sign Up Preview](frontend/src/assets/Signup.png)
+### Sign Up Preview
 
-- Login Preview
-  ![Sign Up Preview](frontend/src/assets/Login.png)
+![Sign Up Preview](frontend/src/assets/Signup.png)
 
-- Dashboard Preview
-  ![Sign Up Preview](frontend/src/assets/Dashboard.png)
+### Login Preview
 
-- Search Preview
-  ![Sign Up Preview](frontend/src/assets/Search.png)
+![Sign Up Preview](frontend/src/assets/Login.png)
 
-- Profile Preview
-  ![Sign Up Preview](frontend/src/assets/Profile.png)
+### Dashboard Preview
 
-- One O One Chat Preview
-  ![Sign Up Preview](frontend/src/assets/oneToone.png)
+![Sign Up Preview](frontend/src/assets/Dashboard.png)
 
-- Group Chat Preview
-  ![Sign Up Preview](frontend/src/assets/Group.png)
+### Search Preview
+
+![Sign Up Preview](frontend/src/assets/Search.png)
+
+### Profile Preview
+
+![Sign Up Preview](frontend/src/assets/Profile.png)
+
+### One O One Chat Preview
+
+![Sign Up Preview](frontend/src/assets/oneToone.png)
+
+### Group Chat Preview
+
+![Sign Up Preview](frontend/src/assets/Group.png)
 
 ---
 
